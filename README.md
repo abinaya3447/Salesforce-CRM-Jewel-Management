@@ -1,5 +1,3 @@
-# Salesforce-CRM-Jewel-Management
-Salesforce CRM Jewel Management description
 💎 CRM Application for Jewel Management
 
 A Salesforce-based CRM application designed to streamline jewellery business operations, including inventory management, customer relationship handling, billing, and sales tracking. This project showcases the use of Salesforce features such as custom objects, validation rules, triggers, flows, dashboards, and automation to build a robust business solution.
